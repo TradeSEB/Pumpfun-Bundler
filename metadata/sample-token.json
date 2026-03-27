@@ -1,0 +1,9 @@
+{
+  "name": "My Bundle Token",
+  "symbol": "MBT",
+  "description": "Token launched by PumpfunBundlerBot",
+  "twitter": "https://x.com/your_account",
+  "telegram": "https://t.me/your_group",
+  "website": "https://your-site.com",
+  "imagePath": "./metadata/token.png"
+}
